@@ -1,7 +1,7 @@
 /*
 Northwind Database
 
-The below SQL queries (PostGres SQL) explore the Northwind database to answer specific queries posed by fictional sales, logistics and HR teams.
+The below SQL queries (PostgreSQL) explore the Northwind database to answer specific queries posed by fictional sales, logistics and HR teams.
 
 Skills used: Joins, Window Functions, Aggregate Functions, Case Statements, Converting Data Types, Concatenation, Nested Queries
 
